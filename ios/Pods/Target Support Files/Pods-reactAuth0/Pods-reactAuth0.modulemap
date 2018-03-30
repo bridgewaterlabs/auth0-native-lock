@@ -1,0 +1,6 @@
+framework module Pods_reactAuth0 {
+  umbrella header "Pods-reactAuth0-umbrella.h"
+
+  export *
+  module * { export * }
+}

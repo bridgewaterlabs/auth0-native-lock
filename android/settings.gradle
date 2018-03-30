@@ -1,0 +1,3 @@
+rootProject.name = 'reactAuth0'
+
+include ':app'
